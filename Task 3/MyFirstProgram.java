@@ -34,7 +34,7 @@ class MySecondClass {
 		b = B;
 	}
 
-	MySecondClass(int A, int B) {
+	public MySecondClass(int A, int B) {
 		setA(A);
 		setB(B);
 	}
